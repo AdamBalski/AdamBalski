@@ -1,13 +1,13 @@
 # Hi there 👋
 
 ### I'm currently working on:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=gruvbox&username=AdamBalski&repo=springboot-boilerplate)](https://github.com/AdamBalski/springboot-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=calm&username=AdamBalski&repo=springboot-boilerplate)](https://github.com/AdamBalski/springboot-boilerplate)
 
 ---
 
-![Adam Balski's github stats](https://github-readme-stats.vercel.app/api?theme=gruvbox&hide=stars,prs,issues&username=AdamBalski&count_private=true&show_icons=true)
+![Adam Balski's github stats](https://github-readme-stats.vercel.app/api?theme=calm&hide=stars,prs,issues&username=AdamBalski&count_private=true&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=gruvbox&username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?theme=calm&username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
