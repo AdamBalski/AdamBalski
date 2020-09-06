@@ -1,7 +1,6 @@
-### Hi there 👋
+#Hi there 👋
 
 ![Adam Balski's github stats](https://github-readme-stats.vercel.app/api?hide=stars,prs,issues&username=AdamBalski&count_private=true&show_icons=true)
-
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
