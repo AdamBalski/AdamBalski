@@ -1,5 +1,10 @@
 # Hi there 👋
 
+### I'm currently working on:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ![Adam Balski's github stats](https://github-readme-stats.vercel.app/api?hide=stars,prs,issues&username=AdamBalski&count_private=true&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -18,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--
