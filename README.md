@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### I'm currently working on:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=springboot-boilerplate)](https://github.com/AdamBalski/springboot-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=finman-backend)](https://github.com/AdamBalski/finman-backend)
 
 ---
 
