@@ -1,11 +1,9 @@
 # Hi there 👋
 
-### I'm currently working on:
+### Currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=finman-backend)](https://github.com/AdamBalski/finman-backend)
 
 ---
-
-![Adam Balski's github stats](https://github-readme-stats.vercel.app/api?hide=stars,prs,issues&username=AdamBalski&count_private=true&show_icons=true)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
