@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### Currently working on:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=calmerger)](https://github.com/AdamBalski/finman-backend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=calmerger)](https://github.com/AdamBalski/calmerger)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=finman-backend)](https://github.com/AdamBalski/finman-backend)
 
