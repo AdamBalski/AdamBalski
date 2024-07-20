@@ -3,8 +3,6 @@
 ### Currently working on:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=calmerger)](https://github.com/AdamBalski/calmerger)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?theme=&username=AdamBalski&repo=finman-backend)](https://github.com/AdamBalski/finman-backend)
-
 ---
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamBalski&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
